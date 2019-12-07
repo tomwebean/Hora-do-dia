@@ -17,13 +17,4 @@ function checkTime(i)
 {
 if (i<10)
   {
-  i="0" + i;
-  }
-return i;
-}
-</script>
-
-
-<div id="txt">
-<script type="text/javascript">document.write(startTime())</script>
-</div>
+  
