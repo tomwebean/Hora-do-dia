@@ -13,8 +13,3 @@ t=setTimeout('startTime()',500);
 
 }
 
-function checkTime(i)
-{
-if (i<10)
-  {
-  
